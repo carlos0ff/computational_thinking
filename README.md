@@ -133,5 +133,5 @@ Esses exercícios são essenciais para o entendimento das principais **estrutura
 Este projeto está licenciado sob a **Licença MIT**. Para mais detalhes, consulte o arquivo [LICENSE](https://github.com/carlos0ff/computational_thinking/blob/main/LICENSE). 🛡️
 
 ---
+<p align="center">Fique à vontade para fazer sugestões ou melhorias! 💡</p>
 
-Fique à vontade para fazer sugestões ou melhorias! 💡
