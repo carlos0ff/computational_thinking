@@ -19,16 +19,6 @@
 ---
 
 ## 📚 Sumário
-
-
-- [Introdução](#introdução)
-- [Estruturas Implementadas](#estruturas-implementadas)
-- [Requisitos](#requisitos)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Lista de exercicisos](#requisitos)
-- [Licença](#licença)
-=======
 - [🔍 Introdução](#introdução)
 - [🛠️ Estruturas Implementadas](#estruturas-implementadas)
 - [⚙️ Requisitos](#requisitos)
