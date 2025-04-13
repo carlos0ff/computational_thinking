@@ -20,7 +20,7 @@
 
 ## 📚 Sumário
 
-<<<<<<< HEAD
+
 - [Introdução](#introdução)
 - [Estruturas Implementadas](#estruturas-implementadas)
 - [Requisitos](#requisitos)
@@ -36,7 +36,6 @@
 - [🤝 Contribuição](#contribuição)
 - [📝 Lista de Exercícios](#lista-de-exercícios)
 - [📄 Licença](#licença)
->>>>>>> 6676b197e95f6b35ab81c1133a507994971953f1
 
 ---
 
