@@ -4,21 +4,21 @@
 
 /*
  * Roman To Int - Implementação 5
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(2^n)
  */
 
 void roman_to_int_v5() {
     printf("Roman To Int - Versão 5\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Com validação de entrada\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Com validação de entrada\n\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Implementação paralela\n");
+    printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

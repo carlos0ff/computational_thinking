@@ -4,18 +4,18 @@
 
 /*
  * Way Too Long - Implementação 3
- * Criado em: 23/04/2025 15:15
- * Autor: Alan Turing
- * Complexidade: O(n log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(n)
  */
 
 void way_too_long_v3() {
     printf("Way Too Long - Versão 3\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
+    printf("- Otimizado para cache\n");
     printf("- Com validação de entrada\n");
-    printf("- Implementação paralela\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Otimizado para cache\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 100;

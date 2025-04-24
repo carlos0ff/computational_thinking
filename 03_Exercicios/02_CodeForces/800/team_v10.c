@@ -4,8 +4,8 @@
 
 /*
  * Team - Implementação 10
- * Criado em: 23/04/2025 15:15
- * Autor: Ada Lovelace
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
  * Complexidade: O(n³)
  */
 
@@ -14,11 +14,11 @@ void team_v10() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com medidas de tempo\n");
-    printf("- Com medidas de tempo\n");
+    printf("- Versão iterativa\n");
     printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

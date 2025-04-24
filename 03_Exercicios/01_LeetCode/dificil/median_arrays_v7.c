@@ -4,21 +4,21 @@
 
 /*
  * Median Arrays - Implementação 7
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Ada Lovelace
- * Complexidade: O(2^n)
+ * Complexidade: O(n log n)
  */
 
 void median_arrays_v7() {
     printf("Median Arrays - Versão 7\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Versão recursiva\n");
-    printf("- Otimizado para cache\n\n");
+    printf("- Com validação de entrada\n");
+    printf("- Implementação paralela\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100000;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

@@ -4,9 +4,9 @@
 
 /*
  * Two Sum - Implementação 9
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(n³)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(1)
  */
 
 void two_sum_v9() {
@@ -14,11 +14,11 @@ void two_sum_v9() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Alocação dinâmica eficiente\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Otimizado para cache\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

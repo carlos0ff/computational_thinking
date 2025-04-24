@@ -4,9 +4,9 @@
 
 /*
  * Zigzag Conversion - Implementação 7
- * Criado em: 23/04/2025 15:15
- * Autor: John von Neumann
- * Complexidade: O(1)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(n²)
  */
 
 void zigzag_conversion_v7() {
@@ -14,11 +14,11 @@ void zigzag_conversion_v7() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Versão recursiva\n");
-    printf("- Versão recursiva\n");
-    printf("- Com medidas de tempo\n\n");
+    printf("- Com validação de entrada\n");
+    printf("- Versão recursiva\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

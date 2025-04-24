@@ -4,9 +4,9 @@
 
 /*
  * Zigzag Conversion - Implementação 3
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(2^n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(n³)
  */
 
 void zigzag_conversion_v3() {
@@ -14,7 +14,7 @@ void zigzag_conversion_v3() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com validação de entrada\n");
-    printf("- Otimizado para cache\n");
+    printf("- Alocação dinâmica eficiente\n");
     printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));

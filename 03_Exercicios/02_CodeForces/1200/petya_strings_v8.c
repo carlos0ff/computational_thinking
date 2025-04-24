@@ -4,9 +4,9 @@
 
 /*
  * Petya Strings - Implementação 8
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: John von Neumann
+ * Complexidade: O(2^n)
  */
 
 void petya_strings_v8() {
@@ -14,11 +14,11 @@ void petya_strings_v8() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com validação de entrada\n");
-    printf("- Com validação de entrada\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Otimizado para cache\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

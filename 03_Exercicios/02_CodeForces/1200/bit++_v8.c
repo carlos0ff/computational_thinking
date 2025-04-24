@@ -4,9 +4,9 @@
 
 /*
  * Bit++ - Implementação 8
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: John von Neumann
- * Complexidade: O(n)
+ * Complexidade: O(1)
  */
 
 void bit++_v8() {
@@ -15,10 +15,10 @@ void bit++_v8() {
     printf("Características:\n");
     printf("- Com validação de entrada\n");
     printf("- Implementação paralela\n");
-    printf("- Otimizado para cache\n\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

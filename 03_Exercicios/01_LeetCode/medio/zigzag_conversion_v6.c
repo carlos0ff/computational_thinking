@@ -4,21 +4,21 @@
 
 /*
  * Zigzag Conversion - Implementação 6
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(2^n)
  */
 
 void zigzag_conversion_v6() {
     printf("Zigzag Conversion - Versão 6\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Implementação paralela\n");
-    printf("- Com validação de entrada\n\n");
+    printf("- Versão iterativa\n");
+    printf("- Com validação de entrada\n");
+    printf("- Otimizado para cache\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

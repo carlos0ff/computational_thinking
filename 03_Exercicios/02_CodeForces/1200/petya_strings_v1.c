@@ -4,18 +4,18 @@
 
 /*
  * Petya Strings - Implementação 1
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
+ * Complexidade: O(n log n)
  */
 
 void petya_strings_v1() {
     printf("Petya Strings - Versão 1\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Versão iterativa\n");
-    printf("- Uso mínimo de memória\n\n");
+    printf("- Com validação de entrada\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Otimizado para cache\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 100;

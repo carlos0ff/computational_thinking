@@ -4,9 +4,9 @@
 
 /*
  * Two Sum - Implementação 7
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Donald Knuth
- * Complexidade: O(log n)
+ * Complexidade: O(1)
  */
 
 void two_sum_v7() {
@@ -14,11 +14,11 @@ void two_sum_v7() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com validação de entrada\n");
-    printf("- Com validação de entrada\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Implementação paralela\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 10000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

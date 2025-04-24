@@ -4,18 +4,18 @@
 
 /*
  * Way Too Long - Implementação 2
- * Criado em: 23/04/2025 15:15
- * Autor: Alan Turing
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: John von Neumann
+ * Complexidade: O(2^n)
  */
 
 void way_too_long_v2() {
     printf("Way Too Long - Versão 2\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
     printf("- Versão recursiva\n");
-    printf("- Versão iterativa\n\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 1000;

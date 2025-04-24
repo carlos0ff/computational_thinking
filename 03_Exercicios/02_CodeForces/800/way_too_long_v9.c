@@ -4,9 +4,9 @@
 
 /*
  * Way Too Long - Implementação 9
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(n³)
  */
 
 void way_too_long_v9() {
@@ -14,11 +14,11 @@ void way_too_long_v9() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Uso mínimo de memória\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Versão recursiva\n\n");
+    printf("- Versão iterativa\n");
+    printf("- Alocação dinâmica eficiente\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

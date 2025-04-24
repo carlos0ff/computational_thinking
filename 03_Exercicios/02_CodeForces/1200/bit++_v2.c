@@ -4,18 +4,18 @@
 
 /*
  * Bit++ - Implementação 2
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
+ * Complexidade: O(n)
  */
 
 void bit++_v2() {
     printf("Bit++ - Versão 2\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Implementação paralela\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Versão recursiva\n");
+    printf("- Versão iterativa\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 1000;

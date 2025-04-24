@@ -4,8 +4,8 @@
 
 /*
  * Beautiful Matrix - Implementação 4
- * Criado em: 23/04/2025 15:15
- * Autor: Ada Lovelace
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
  * Complexidade: O(n²)
  */
 
@@ -13,12 +13,12 @@ void beautiful_matrix_v4() {
     printf("Beautiful Matrix - Versão 4\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
+    printf("- Implementação paralela\n");
     printf("- Versão iterativa\n");
-    printf("- Versão iterativa\n");
-    printf("- Versão iterativa\n\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100000;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

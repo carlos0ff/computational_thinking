@@ -4,9 +4,9 @@
 
 /*
  * Longest Substring - Implementação 4
- * Criado em: 23/04/2025 15:15
- * Autor: John von Neumann
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
+ * Complexidade: O(2^n)
  */
 
 void longest_substring_v4() {
@@ -14,11 +14,11 @@ void longest_substring_v4() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Versão iterativa\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Com medidas de tempo\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

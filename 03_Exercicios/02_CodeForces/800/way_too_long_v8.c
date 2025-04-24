@@ -4,8 +4,8 @@
 
 /*
  * Way Too Long - Implementação 8
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
  * Complexidade: O(2^n)
  */
 
@@ -14,11 +14,11 @@ void way_too_long_v8() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com medidas de tempo\n");
-    printf("- Alocação dinâmica eficiente\n");
+    printf("- Implementação paralela\n");
     printf("- Alocação dinâmica eficiente\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

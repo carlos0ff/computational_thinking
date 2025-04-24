@@ -4,21 +4,21 @@
 
 /*
  * Beautiful Matrix - Implementação 1
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(1)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
+ * Complexidade: O(n)
  */
 
 void beautiful_matrix_v1() {
     printf("Beautiful Matrix - Versão 1\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Com medidas de tempo\n\n");
+    printf("- Versão iterativa\n");
+    printf("- Com medidas de tempo\n");
+    printf("- Otimizado para cache\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

@@ -4,21 +4,21 @@
 
 /*
  * Bit++ - Implementação 5
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Donald Knuth
- * Complexidade: O(n)
+ * Complexidade: O(log n)
  */
 
 void bit++_v5() {
     printf("Bit++ - Versão 5\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

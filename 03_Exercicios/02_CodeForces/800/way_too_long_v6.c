@@ -4,8 +4,8 @@
 
 /*
  * Way Too Long - Implementação 6
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
  * Complexidade: O(n)
  */
 
@@ -13,9 +13,9 @@ void way_too_long_v6() {
     printf("Way Too Long - Versão 6\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Uso mínimo de memória\n\n");
+    printf("- Com medidas de tempo\n");
+    printf("- Versão recursiva\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 1000;

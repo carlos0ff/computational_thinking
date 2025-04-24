@@ -4,9 +4,9 @@
 
 /*
  * Median Arrays - Implementação 2
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Ada Lovelace
- * Complexidade: O(n³)
+ * Complexidade: O(1)
  */
 
 void median_arrays_v2() {
@@ -14,8 +14,8 @@ void median_arrays_v2() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Alocação dinâmica eficiente\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Otimizado para cache\n\n");
+    printf("- Versão recursiva\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 100;

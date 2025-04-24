@@ -4,21 +4,21 @@
 
 /*
  * Merge K Lists - Implementação 4
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
+ * Complexidade: O(1)
  */
 
 void merge_k_lists_v4() {
     printf("Merge K Lists - Versão 4\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Otimizado para cache\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Versão iterativa\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

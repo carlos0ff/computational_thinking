@@ -4,7 +4,7 @@
 
 /*
  * Longest Substring - Implementação 10
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: John von Neumann
  * Complexidade: O(log n)
  */
@@ -13,12 +13,12 @@ void longest_substring_v10() {
     printf("Longest Substring - Versão 10\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
+    printf("- Uso mínimo de memória\n");
     printf("- Com medidas de tempo\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Implementação paralela\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

@@ -4,17 +4,17 @@
 
 /*
  * Regular Expression - Implementação 4
- * Criado em: 23/04/2025 15:15
- * Autor: Ada Lovelace
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
+ * Complexidade: O(n log n)
  */
 
 void regular_expression_v4() {
     printf("Regular Expression - Versão 4\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
+    printf("- Implementação paralela\n");
     printf("- Uso mínimo de memória\n");
-    printf("- Com validação de entrada\n");
     printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));

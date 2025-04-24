@@ -4,21 +4,21 @@
 
 /*
  * Merge K Lists - Implementação 9
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n³)
+ * Criado em: 24/04/2025 14:48
+ * Autor: John von Neumann
+ * Complexidade: O(2^n)
  */
 
 void merge_k_lists_v9() {
     printf("Merge K Lists - Versão 9\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
+    printf("- Alocação dinâmica eficiente\n");
     printf("- Versão iterativa\n");
-    printf("- Com validação de entrada\n");
-    printf("- Versão iterativa\n\n");
+    printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

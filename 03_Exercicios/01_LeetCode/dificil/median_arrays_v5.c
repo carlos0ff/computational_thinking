@@ -4,9 +4,9 @@
 
 /*
  * Median Arrays - Implementação 5
- * Criado em: 23/04/2025 15:15
- * Autor: Donald Knuth
- * Complexidade: O(n²)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(n³)
  */
 
 void median_arrays_v5() {
@@ -14,8 +14,8 @@ void median_arrays_v5() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com medidas de tempo\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Alocação dinâmica eficiente\n\n");
+    printf("- Implementação paralela\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 100;

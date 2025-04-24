@@ -4,18 +4,18 @@
 
 /*
  * Regular Expression - Implementação 3
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Alan Turing
- * Complexidade: O(1)
+ * Complexidade: O(n)
  */
 
 void regular_expression_v3() {
     printf("Regular Expression - Versão 3\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Alocação dinâmica eficiente\n");
-    printf("- Com validação de entrada\n");
-    printf("- Versão recursiva\n\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Versão recursiva\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 10000;

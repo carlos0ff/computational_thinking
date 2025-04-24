@@ -4,21 +4,21 @@
 
 /*
  * Petya Strings - Implementação 3
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Donald Knuth
+ * Complexidade: O(n)
  */
 
 void petya_strings_v3() {
     printf("Petya Strings - Versão 3\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Com validação de entrada\n");
-    printf("- Versão recursiva\n");
-    printf("- Uso mínimo de memória\n\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Versão iterativa\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 10000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

@@ -4,8 +4,8 @@
 
 /*
  * Merge K Lists - Implementação 5
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
  * Complexidade: O(n log n)
  */
 
@@ -13,12 +13,12 @@ void merge_k_lists_v5() {
     printf("Merge K Lists - Versão 5\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Otimizado para cache\n");
-    printf("- Versão recursiva\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Alocação dinâmica eficiente\n");
+    printf("- Versão iterativa\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 100000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

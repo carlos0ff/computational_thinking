@@ -4,21 +4,21 @@
 
 /*
  * Regular Expression - Implementação 7
- * Criado em: 23/04/2025 15:15
- * Autor: Alan Turing
- * Complexidade: O(n log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Edsger Dijkstra
+ * Complexidade: O(log n)
  */
 
 void regular_expression_v7() {
     printf("Regular Expression - Versão 7\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
-    printf("- Implementação paralela\n");
-    printf("- Versão iterativa\n\n");
+    printf("- Uso mínimo de memória\n");
+    printf("- Com validação de entrada\n");
+    printf("- Alocação dinâmica eficiente\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 1000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

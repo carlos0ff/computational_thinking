@@ -4,21 +4,21 @@
 
 /*
  * Bit++ - Implementação 4
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n²)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(n log n)
  */
 
 void bit++_v4() {
     printf("Bit++ - Versão 4\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Implementação paralela\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Versão iterativa\n");
+    printf("- Otimizado para cache\n");
+    printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100000;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

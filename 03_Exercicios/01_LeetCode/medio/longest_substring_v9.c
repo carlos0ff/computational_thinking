@@ -4,21 +4,21 @@
 
 /*
  * Longest Substring - Implementação 9
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Edsger Dijkstra
- * Complexidade: O(1)
+ * Complexidade: O(n³)
  */
 
 void longest_substring_v9() {
     printf("Longest Substring - Versão 9\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Otimizado para cache\n");
     printf("- Alocação dinâmica eficiente\n");
-    printf("- Com validação de entrada\n\n");
+    printf("- Versão recursiva\n");
+    printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

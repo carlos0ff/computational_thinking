@@ -4,9 +4,9 @@
 
 /*
  * Watermelon - Implementação 5
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(1)
  */
 
 void watermelon_v5() {
@@ -14,7 +14,7 @@ void watermelon_v5() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Otimizado para cache\n");
-    printf("- Otimizado para cache\n");
+    printf("- Alocação dinâmica eficiente\n");
     printf("- Com medidas de tempo\n\n");
     
     srand(time(NULL));

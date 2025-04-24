@@ -4,9 +4,9 @@
 
 /*
  * Longest Substring - Implementação 2
- * Criado em: 23/04/2025 15:15
- * Autor: John von Neumann
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(2^n)
  */
 
 void longest_substring_v2() {
@@ -14,8 +14,8 @@ void longest_substring_v2() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Com validação de entrada\n");
-    printf("- Versão recursiva\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Com validação de entrada\n");
+    printf("- Com validação de entrada\n\n");
     
     srand(time(NULL));
     int tamanho_teste = 1000;

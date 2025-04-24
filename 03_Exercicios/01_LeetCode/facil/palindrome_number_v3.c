@@ -4,21 +4,21 @@
 
 /*
  * Palindrome Number - Implementação 3
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Donald Knuth
- * Complexidade: O(n²)
+ * Complexidade: O(log n)
  */
 
 void palindrome_number_v3() {
     printf("Palindrome Number - Versão 3\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Versão recursiva\n");
-    printf("- Com validação de entrada\n\n");
+    printf("- Com medidas de tempo\n");
+    printf("- Implementação paralela\n");
+    printf("- Versão recursiva\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

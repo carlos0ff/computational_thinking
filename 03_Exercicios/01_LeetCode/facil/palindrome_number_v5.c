@@ -4,9 +4,9 @@
 
 /*
  * Palindrome Number - Implementação 5
- * Criado em: 23/04/2025 15:15
+ * Criado em: 24/04/2025 14:48
  * Autor: Alan Turing
- * Complexidade: O(n)
+ * Complexidade: O(n²)
  */
 
 void palindrome_number_v5() {
@@ -14,11 +14,11 @@ void palindrome_number_v5() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Versão iterativa\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Com medidas de tempo\n\n");
+    printf("- Otimizado para cache\n");
+    printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 1000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

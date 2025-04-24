@@ -4,21 +4,21 @@
 
 /*
  * Merge K Lists - Implementação 2
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Ada Lovelace
+ * Complexidade: O(n²)
  */
 
 void merge_k_lists_v2() {
     printf("Merge K Lists - Versão 2\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Versão iterativa\n");
-    printf("- Com validação de entrada\n\n");
+    printf("- Com validação de entrada\n");
+    printf("- Com validação de entrada\n");
+    printf("- Uso mínimo de memória\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 10000;
+    int tamanho_teste = 100;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

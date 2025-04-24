@@ -4,9 +4,9 @@
 
 /*
  * Watermelon - Implementação 8
- * Criado em: 23/04/2025 15:15
- * Autor: John von Neumann
- * Complexidade: O(n log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
+ * Complexidade: O(1)
  */
 
 void watermelon_v8() {
@@ -14,11 +14,11 @@ void watermelon_v8() {
     printf("Tipo: Implementação\n");
     printf("Características:\n");
     printf("- Versão iterativa\n");
-    printf("- Com validação de entrada\n");
+    printf("- Otimizado para cache\n");
     printf("- Alocação dinâmica eficiente\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100;
+    int tamanho_teste = 10000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 

@@ -4,21 +4,21 @@
 
 /*
  * Way Too Long - Implementação 1
- * Criado em: 23/04/2025 15:15
- * Autor: Edsger Dijkstra
- * Complexidade: O(n log n)
+ * Criado em: 24/04/2025 14:48
+ * Autor: Alan Turing
+ * Complexidade: O(2^n)
  */
 
 void way_too_long_v1() {
     printf("Way Too Long - Versão 1\n");
     printf("Tipo: Implementação\n");
     printf("Características:\n");
-    printf("- Com medidas de tempo\n");
-    printf("- Uso mínimo de memória\n");
-    printf("- Implementação paralela\n\n");
+    printf("- Versão recursiva\n");
+    printf("- Otimizado para cache\n");
+    printf("- Versão recursiva\n\n");
     
     srand(time(NULL));
-    int tamanho_teste = 100000;
+    int tamanho_teste = 10000;
     printf("Testando com %d elementos...\n", tamanho_teste);
 }
 
