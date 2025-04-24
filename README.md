@@ -41,15 +41,7 @@ git checkout -b feature/nova-funcionalidade
 - Abra um Pull Request 
 
 ---
-<div align="center">
 
-[![Last Commit](https://img.shields.io/github/last-commit/carlos0ff/estrutura_de_dados_I?style=flat-square&label=ÚLTIMO%20COMMIT)](https://github.com/carlos0ff/estrutura_de_dados_I/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/carlos0ff/estrutura_de_dados_I?style=flat-square&label=TAMANHO)](https://github.com/carlos0ff/estrutura_de_dados_I)
-[![Code Quality](https://img.shields.io/badge/QUALIDADE-Código%20Validado-brightgreen?style=flat-square)](https://github.com/carlos0ff/estrutura_de_dados_I/actions)
-
-</div>
-
----
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
