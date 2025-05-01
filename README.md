@@ -11,8 +11,6 @@
 [![Forks](https://img.shields.io/github/forks/carlos0ff/estrutura_de_dados_I?style=for-the-badge&label=FORKS&color=blue)](https://github.com/carlos0ff/estrutura_de_dados_I/network/members)
 [![Issues](https://img.shields.io/github/issues/carlos0ff/estrutura_de_dados_I?style=for-the-badge&label=ISSUES&color=green)](https://github.com/carlos0ff/estrutura_de_dados_I/issues)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com/carlos0ff/estrutura_de_dados_I/blob/main/LICENSE)
-[![Language](https://img.shields.io/badge/LANGUAGE-C-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Professor](https://img.shields.io/badge/PROFESSOR-EDKALLENN-1856ED?style=for-the-badge)](https://github.com/edkallenn)
 
 </div>
 
