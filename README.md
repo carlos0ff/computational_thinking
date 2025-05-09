@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Estrutura de Dados em C++ 
  
 Este repositório contém implementações dos principais algoritmos e estruturas de dados. 
 Cada diretório representa um tópico com teoria, exemplos, desafios, exercícios e testes. 
-=======
+
 <p align="center">
   <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=Estruturas+de+Dados+I;Professor+Edkallenn+Lima;" 
@@ -52,4 +52,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 --- 
 
 <p align="center"> Made with ❤️ by <a href="https://github.com/carlos0ff">Carlos</a> </p> 
->>>>>>> a92548b16c0e85aa81243cbc1d61d2d8c961d1a6
+
