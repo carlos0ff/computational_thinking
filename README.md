@@ -1,9 +1,3 @@
-
-# Estrutura de Dados em C++ 
- 
-Este repositório contém implementações dos principais algoritmos e estruturas de dados. 
-Cada diretório representa um tópico com teoria, exemplos, desafios, exercícios e testes. 
-
 <p align="center">
   <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=Estruturas+de+Dados+I;Professor+Edkallenn+Lima;" 
@@ -21,8 +15,7 @@ Cada diretório representa um tópico com teoria, exemplos, desafios, exercício
 </div>
 
 <p align="center">
-Repositório acadêmico contendo implementações práticas em C da disciplina<br>
-de Estrutura de Dados I ministrada pelo professor Edkallenn.
+Este repositório reúne implementações dos principais algoritmos e estruturas de dados abordados na disciplina Estrutura de Dados I, ministrada pelo professor Edkallenn. Trata-se de um repositório acadêmico com foco em implementações práticas utilizando a linguagem C.
 </p>
 
 ---
