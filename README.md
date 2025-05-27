@@ -18,26 +18,6 @@
 Este repositório reúne implementações dos principais algoritmos e estruturas de dados abordados na disciplina Estrutura de Dados I, ministrada pelo professor Edkallenn. Trata-se de um repositório acadêmico com foco em implementações práticas utilizando a linguagem C.
 </p>
 
----
-## 🤝🏼 Contribuições 
-são bem-vindas! Siga estes passos:
-
-- Faça um fork do projeto
-- Crie uma branch
-```bash
-git checkout -b feature/nova-funcionalidade
-```
-- Commit suas mudanças
-```bash
-  git commit -m 'Adiciona nova funcionalidade'
-```
-- Push para a branch
-```bash
- git push origin feature/nova-funcionalidade
-```
-- Abra um Pull Request 
-
----
 
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
