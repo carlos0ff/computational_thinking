@@ -16,57 +16,28 @@
 
 </div>
 
----
-
-## 📚 Índice
-
-- [🎯 Objetivo](#-objetivo)  
-- [📁 Estrutura do Projeto](#-estrutura-do-projeto)  
-- [🤝 Contribuições](#-contribuições)  
-- [📄 Licença](#-licença)  
-- [👨‍💻 Autor](#-autor)
+<p align="center">
+Este repositório reúne implementações dos principais algoritmos e estruturas de dados abordados na disciplina Estrutura de Dados I, ministrada pelo professor Edkallenn. Trata-se de um repositório acadêmico com foco em implementações práticas utilizando a linguagem C.
+</p>
 
 ---
+## 🤝🏼 Contribuições 
+são bem-vindas! Siga estes passos:
 
-## 🎯 Objetivo
-
-Este repositório contém implementações práticas dos principais algoritmos e estruturas de dados abordados na disciplina **Estrutura de Dados I**, ministrada pelo professor **Edkallenn Lima**. O objetivo é reforçar o aprendizado com exemplos práticos utilizando a **linguagem C**.
-
----
-
-## 📁 Estrutura do Projeto
-
+- Faça um fork do projeto
+- Crie uma branch
+```bash
+git checkout -b feature/nova-funcionalidade
 ```
-estrutura_de_dados_I/
-├── listas/         -> Listas encadeadas, duplas e circulares
-├── pilhas/         -> Pilhas estáticas e dinâmicas
-├── filas/          -> Filas, filas circulares e de prioridade
-├── arvores/        -> Árvores binárias de busca, AVL, etc.
-├── grafos/         -> Representações e algoritmos de grafos
-├── algoritmos/     -> Ordenações, buscas, recursões, etc.
+- Commit suas mudanças
+```bash
+  git commit -m 'Adiciona nova funcionalidade'
 ```
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto  
-2. Crie uma nova branch:
-   ```bash
-   git checkout -b feature/minha-contribuicao
-   ```
-3. Commit suas mudanças:
-   ```bash
-   git add .
-   git commit -m "Adiciona nova funcionalidade"
-   ```
-4. Envie para o repositório remoto:
-   ```bash
-   git push origin feature/minha-contribuicao
-   ```
-5. Abra um Pull Request
+- Push para a branch
+```bash
+ git push origin feature/nova-funcionalidade
+```
+- Abra um Pull Request 
 
 ---
 
