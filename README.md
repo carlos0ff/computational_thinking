@@ -14,7 +14,7 @@
 </div>
 
 ---
-## 🤝🏼 Contribuições 
+## 🤝 Contribuições 
 são bem-vindas! Siga estes passos:
 
 - Faça um fork do projeto
