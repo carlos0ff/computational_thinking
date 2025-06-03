@@ -9,11 +9,9 @@
 
 </div>
 
-
 <div align="center">
   <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
 </div>
-
 
 ---
 ## 🤝🏼 Contribuições 
@@ -45,5 +43,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 ## 👨‍💻 Autor
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/carlos0ff">Carlos</a>
+  Feito com ❤️ por <a href="https://github.com/carlos0ff">José Carlos</a>
 </p>
