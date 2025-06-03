@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="image/banner/figlandingpage.png" alt="Estruturas de Dados I - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
-</div>
-
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/carlos0ff/estrutura_de_dados?style=for-the-badge&label=STARS&color=yellow&logo=github)](https://github.com/carlos0ff/estrutura_de_dados/stargazers)
@@ -12,6 +7,11 @@
 [![Language](https://img.shields.io/badge/Linguagem-C-blue.svg?style=for-the-badge&logo=c)](#)
 
 </div>
+
+<div align="center">
+  <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados I - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
+</div>
+
 
 <p align="center">
 Este repositório reúne implementações dos principais algoritmos e estruturas de dados abordados na disciplina Estrutura de Dados I, ministrada pelo professor Edkallenn. Trata-se de um repositório acadêmico com foco em implementações práticas utilizando a linguagem C.
