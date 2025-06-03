@@ -1,4 +1,4 @@
-# ![Descrição da imagem](image/banner/banner.png.png)
+# ![Descrição da imagem](image/banner/banner.png)
 
 <p align="center">
   <img 
