@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="image/estrutura_de_dados.png" alt="Estruturas de Dados I - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
+  <img src="image/banner/figlandingpage.png" alt="Estruturas de Dados I - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
 </div>
 
 <div align="center">
