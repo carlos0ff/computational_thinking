@@ -5,17 +5,15 @@
 [![Issues](https://img.shields.io/github/issues/carlos0ff/estrutura_de_dados?style=for-the-badge&label=ISSUES&color=green)](https://github.com/carlos0ff/estrutura_de_dados/issues)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com/carlos0ff/estrutura_de_dados/blob/main/LICENSE)
 [![Language](https://img.shields.io/badge/Linguagem-C-blue.svg?style=for-the-badge&logo=c)](#)
+[![Professor](https://img.shields.io/badge/Prof-Edkallenn-red.svg?style=for-the-badge&logo=teacher&colorB=FF0000)](https://www.linkedin.com/in/edkallenn/)
 
 </div>
+
 
 <div align="center">
-  <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados I - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
+  <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
 </div>
 
-
-<p align="center">
-Este repositório reúne implementações dos principais algoritmos e estruturas de dados abordados na disciplina Estrutura de Dados I, ministrada pelo professor Edkallenn. Trata-se de um repositório acadêmico com foco em implementações práticas utilizando a linguagem C.
-</p>
 
 ---
 ## 🤝🏼 Contribuições 
