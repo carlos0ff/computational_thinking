@@ -1,1 +1,0 @@
-// Implementação de matriz estática 

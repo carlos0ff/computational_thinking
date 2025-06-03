@@ -1,1 +1,7 @@
-// busca_binaria.c 
+
+/**
+ * Fun
+ */
+int biranrySearch(int* ){
+
+}
