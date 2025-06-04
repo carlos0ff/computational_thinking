@@ -14,6 +14,58 @@
   <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
 </div>
 
+# 📁 Estrutura do Repositório
+
+<p align="center">
+Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina <strong>Estruturas de Dados I</strong>, ministrada pelo professor <strong>Edkallenn Lima</strong>.<br>
+O foco está em soluções práticas utilizando a linguagem <strong>C</strong>, com fins educacionais e acadêmicos.
+</p>
+
+```bash
+  📁 algoritmos
+  ├── 📁 busca
+  ├── 📁 dividir_conquistar
+  ├── 📁 gulosos
+  ├── 📁 ordenacao
+  ├── 📁 programacao_dinamica
+
+  📁 estruturas_lineares
+  ├── 📁 buffers
+  ├── 📁 filas
+  ├── 📁 listas_encadeadas
+  ├── 📁 outras
+  ├── 📁 pilhas
+  ├── 📁 strings
+  ├── 📁 vetores_matrizes
+
+  📁 estruturas_nao_lineares
+  ├── 📁 arvores
+  ├── 📁 conjuntos_disjuntos
+  ├── 📁 filtragem_indexacao
+  ├── 📁 grafos
+  ├── 📁 tabelas_hash
+  ├── 📁 tries
+
+  📁 image
+  ├── 📁 banner
+  ├── 📁 docs
+
+  📁 projetos_finais
+  ├── 📁 Nova pasta
+  ├── 📁 simulador_memoria_virtual
+  ├── 📁 TAD_AgendamentoConsultas
+  ├── 📁 TADVetorInt
+  └── 📄 README.md
+
+  📁 utilitarios
+  ├── 📁 estruturas_auxiliares
+  ├── 📁 manipulacao_arquivos
+  ├── 📁 testes_benchmarks
+
+  📄 .gitignore  
+  📄 LICENSE  
+  📄 README.md
+```
 
 ---
 ## 🤝🏼 Contribuições 
