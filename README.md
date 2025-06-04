@@ -5,15 +5,15 @@
 [![Issues](https://img.shields.io/github/issues/carlos0ff/estrutura_de_dados?style=for-the-badge&label=ISSUES&color=green)](https://github.com/carlos0ff/estrutura_de_dados/issues)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com/carlos0ff/estrutura_de_dados/blob/main/LICENSE)
 [![Language](https://img.shields.io/badge/Linguagem-C-blue.svg?style=for-the-badge&logo=c)](#)
-[![Professor](https://img.shields.io/badge/Prof-Edkallenn-red.svg?style=for-the-badge&logo=teacher&colorB=FF0000)](https://www.linkedin.com/in/edkallenn/)
+[![Professor](https://img.shields.io/badge/Prof-Edkallenn-bla.svg?style=for-the-badge&logo=teacher&colorB=922820)](https://www.linkedin.com/in/edkallenn/)
 
 </div>
-
 
 <div align="center">
   <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
 </div>
 
+<<<<<<< HEAD
 # 📁 Estrutura do Repositório
 
 <p align="center">
@@ -67,8 +67,10 @@ O foco está em soluções práticas utilizando a linguagem <strong>C</strong>, 
   📄 README.md
 ```
 
+=======
+>>>>>>> 26a8b815d0a43fed3fcd20abf0d0f6c02f2cf039
 ---
-## 🤝🏼 Contribuições 
+## 🤝 Contribuições 
 são bem-vindas! Siga estes passos:
 
 - Faça um fork do projeto
@@ -97,5 +99,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 ## 👨‍💻 Autor
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/carlos0ff">Carlos</a>
+  Feito com ❤️ por <a href="https://github.com/carlos0ff">José Carlos</a>
 </p>
