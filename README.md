@@ -10,15 +10,14 @@
 </div>
 
 <div align="center">
-  <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn" style="width: 100%; max-width: 900px;" />
+  <img src="image/banner/estrutura_de_dados.png" alt="Estruturas de Dados - Professor Edkallenn Lima" style="width: 100%; max-width: 900px;" />
 </div>
 
-<<<<<<< HEAD
 # 📁 Estrutura do Repositório
 
 <p align="center">
-Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina <strong>Estruturas de Dados I</strong>, ministrada pelo professor <strong>Edkallenn Lima</strong>.<br>
-O foco está em soluções práticas utilizando a linguagem <strong>C</strong>, com fins educacionais e acadêmicos.
+  Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina 
+  <strong>Estruturas de Dados I</strong>, ministrada pelo professor <strong>Edkallenn Lima</strong>.
 </p>
 
 ```bash
@@ -66,10 +65,10 @@ O foco está em soluções práticas utilizando a linguagem <strong>C</strong>, 
   📄 LICENSE  
   📄 README.md
 ```
+>Edkallen o meu policial e meu Sogrinho favorito <3
 
-=======
->>>>>>> 26a8b815d0a43fed3fcd20abf0d0f6c02f2cf039
 ---
+
 ## 🤝 Contribuições 
 são bem-vindas! Siga estes passos:
 
