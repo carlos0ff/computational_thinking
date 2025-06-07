@@ -53,6 +53,18 @@ void lerEmpregado(Empregado *emp)
 }
 
 /**
+ * 
+ */
+void exibirEmpregado(const Empregado *emp)
+{
+    printf("Nome: %s\n", emp->nome);
+    printf("RG: %s\n", emp->rg);
+    printf("Data de nascimento: %s\n", emp->dataNascimento);
+    printf("Data de admissão: %s\n", emp->dataAdmissao);
+    printf("Salário: %.2f\n", emp->salario);
+}
+
+/**
  * Função para excluir um empregado (por índice)
  */
 void excluirEmpregado(Empregado **empregados, int *n, int indice) {
@@ -67,6 +79,7 @@ void excluirEmpregado(Empregado **empregados, int *n, int indice) {
 
     *empregados = realloc(*empregados, (*n - 1) * sizeof(Empregado));
     (*n)--;
+
     printf("Empregado excluído com sucesso.\n");
 }
 
@@ -86,7 +99,8 @@ int main() {
         printf("0. Sair\n");
         printf("Escolha uma opção: ");
         scanf("%d", &opcao);
-        getchar(); // limpar o buffer
+
+        getchar(); 
 
         switch (opcao) {
             case 1:
@@ -95,8 +109,10 @@ int main() {
                     printf("Erro de alocação de memória.\n");
                     exit(1);
                 }
+
                 lerEmpregado(&empregados[total]);
                 total++;
+                
                 break;
 
             case 2:
@@ -104,13 +120,17 @@ int main() {
                     printf("\nEmpregado #%d:\n", i);
                     exibirEmpregado(&empregados[i]);
                 }
+
                 break;
 
             case 3:
                 printf("Digite o índice do empregado para excluir (0 a %d): ", total - 1);
+
                 int indice;
                 scanf("%d", &indice);
-                getchar(); // limpar o buffer
+
+                getchar();
+
                 excluirEmpregado(&empregados, &total, indice);
                 break;
 
@@ -124,5 +144,6 @@ int main() {
     } while (opcao != 0);
 
     free(empregados);
+
     return 0;
 }

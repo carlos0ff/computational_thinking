@@ -17,7 +17,7 @@
 
 <p align="center">
   Este repositório contém implementações dos principais algoritmos e estruturas de dados abordados na disciplina 
-  <strong>Estruturas de Dados I</strong>, ministrada pelo professor <strong>Edkallenn Lima</strong>.
+  <strong>Estruturas de Dados </strong>, ministrada pelo professor <strong>Edkallenn Lima</strong>.
 </p>
 
 ```bash
@@ -65,7 +65,12 @@
   📄 LICENSE  
   📄 README.md
 ```
+<div align="center">
+
 >Edkallen o meu policial e meu Sogrinho favorito <3
+
+</div>
+
 
 ---
 
