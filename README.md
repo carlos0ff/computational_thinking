@@ -65,11 +65,11 @@
   📄 LICENSE  
   📄 README.md
 ```
-<div align="center">
+<p align="center">
 
-><strong>Edkallenn Lima</strong>, além de excelente professor, é também o meu policial e sogrinho favorito! 💙👮‍♂️💻
+<strong>Edkallenn Lima</strong>, além de excelente professor, é também o meu policial e sogrinho favorito! 💙👮‍♂️💻
 
-</div>
+</p>
 
 
 ---
