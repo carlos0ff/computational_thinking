@@ -67,7 +67,7 @@
 ```
 <div align="center">
 
->Edkallen o meu policial e meu Sogrinho favorito <3
+><strong>Edkallenn Lima</strong>, além de excelente professor, é também o meu policial e sogrinho favorito! 💙👮‍♂️💻
 
 </div>
 
