@@ -55,7 +55,7 @@ void lerEmpregado(Empregado *emp)
 /**
  * 
  */
-void exibirEmpregado(const Empregado *emp)
+void exibirEmpregado(Empregado *emp)
 {
     printf("Nome: %s\n", emp->nome);
     printf("RG: %s\n", emp->rg);
