@@ -1,1 +1,0 @@
-// leitura_arquivo.c 
